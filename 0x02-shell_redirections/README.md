@@ -1,1 +1,1 @@
-script print hello world followed by new line
+the script print hello world followed by new line
