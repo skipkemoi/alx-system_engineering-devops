@@ -1,1 +1,1 @@
-the script display the etc/passwd file
+the script displays two files
