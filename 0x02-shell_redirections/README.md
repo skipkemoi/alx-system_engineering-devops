@@ -1,1 +1,1 @@
-the script displays confused smiley
+the script display the etc/passwd file
