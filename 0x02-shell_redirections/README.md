@@ -1,1 +1,1 @@
-display the content of file iacta
+the script creates a file with content in it
