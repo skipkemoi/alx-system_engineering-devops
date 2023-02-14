@@ -1,1 +1,1 @@
-the script creates a file with content in it
+write content of command into a file
