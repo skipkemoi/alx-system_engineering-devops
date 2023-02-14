@@ -1,1 +1,1 @@
-the script print the first 10 lines
+display the content of file iacta
