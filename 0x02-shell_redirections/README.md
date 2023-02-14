@@ -1,1 +1,1 @@
-write content of command into a file
+the script displays users and their home directories
