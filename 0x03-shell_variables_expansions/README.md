@@ -1,1 +1,1 @@
-the script count the number of directories
+the script print environment variables
