@@ -1,1 +1,1 @@
-the script displays the result of BREATH to the power of LOVE
+the script convert numbers from base 2 to base 10
