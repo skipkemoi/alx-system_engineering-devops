@@ -1,2 +1,2 @@
 #!/bin/bash
-pritf "%0.02\n" $NUM
+pritf "%2.31\n" $NUM
