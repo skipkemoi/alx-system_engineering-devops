@@ -1,1 +1,1 @@
-add action to the PATH
+the script count the number of directories
