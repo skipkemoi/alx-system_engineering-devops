@@ -1,1 +1,1 @@
-the script convert numbers from base 2 to base 10
+the script print letter combination
