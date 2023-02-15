@@ -1,1 +1,1 @@
-the script print letter combination
+the script print floats
